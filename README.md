@@ -1,6 +1,7 @@
 #JavaLang
 This module provides marshalling, de-marshalling and handling of thread safe off heap memory through ByteBuffers.
 
+*Note that version lang-6.6.8  is the last official working version released under the apache license.
 This module is available on maven central as
 
     <dependency>
